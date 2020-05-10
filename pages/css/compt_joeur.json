@@ -1,0 +1,16 @@
+[
+    {
+        "nom":"admin",
+        "prenom":"admin",
+        "login":"admin",
+        "pass":"admin",
+        "mdp":"admin"
+    },
+{
+    "nom":"joueur",
+    "prenom":"joueur",
+    "login":"joueur",
+    "pass":"joueur",
+    "mdp":"joueur"
+}
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "Q":"Les Langages web","type":"question",
+        "Q":"Quel terme définit langage qui s’adapte sur Androïd et sur Ios","type":"question",
+        "Q":"D'ou vient Corrona","type":"question",
+        "Q":"Quelle est la première école de codage gratuite au Sénégal","type":"question",
+        "Q":"Les précurseurs de la révolution digitale","type":"question",
+        "R1":"HTML","type":"reponse","choix":"simple",
+        "R2":"R","type":"reponse",   "choix":"texte",
+        "R3":"JAVA","type":"reponse","choix":"simple",
+        "R4":"Italie","type":"reponse","meilleur":"Vrai",
+        "R5":"Chine","type":"reponse","meilleur":"Vrai",
+        "R6":"Simplon","type":"reponse","meilleur":"Vrai",
+        "R7":"Orange Digital Center","type":"reponse","meilleur":"Vrai",
+        "R8":"GAFAM","type":"reponse",
+        "elementsByPage":"valider"
+    }
+]

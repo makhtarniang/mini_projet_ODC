@@ -1,0 +1,73 @@
+body{    
+    background-color: rgb(205, 233, 255);
+}
+.slogan
+{
+    background-color: rgb(7, 14, 15);
+    width: 50%;
+    height: 20%;
+    margin-left: 100px;
+    text-align: center;
+    color: cornsilk;
+}
+.bar{
+    background-color: darkcyan;
+    width: 40%;
+    height: 7px;
+}
+.body-form
+{
+margin-left: 100px;
+width: 50%;
+height: 30%;
+margin-top: -20px;
+}
+input {
+    margin-top: 15px;
+    width: 40%;
+    height: 50px;
+    box-sizing: border-box;
+    border: 1px solid rgb(147, 158, 153);
+    margin-left: 5px;
+    text-indent: 15px;
+    border-radius: 90px;
+    background-color: rgba(231, 241, 238, 0.925);
+    
+  }
+  .cotenire{
+      background-color: rgb(165, 165, 223);
+      margin-top: 50px;
+  }
+  button{
+    margin-right: auto;
+    background: #cfd8dc;
+    margin-top: 30px;
+    color: white;
+    font-size:20px;
+   margin-left: 30px;
+    width: 150px;
+    height: 35px;
+    background-color: rgb(25, 236, 106);
+    display:block;
+    cursor:pointer;
+    border-radius: 2px;
+  }
+  button:active{
+    background: #4f5edf;
+    color: #99a3a8;
+  }
+  button:hover{
+		background: #4909dd;
+  color: #FFF;
+    -webkit-transition: all 0.4s;
+	transition: all 0.4s;
+}
+.droite{
+    border-radius: 40%;
+  width: 160px;
+  height: 160px;
+  border: 3px solid rgb(48, 214, 192);
+  margin-left: 60%;
+  margin-top:-5%;
+  margin-top: -4900%;
+}
